@@ -1,3 +1,3 @@
 # addition-repo
 
-this project allows for number addition
+This project allows for number addition
